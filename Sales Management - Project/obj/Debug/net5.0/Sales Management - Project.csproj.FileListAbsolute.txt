@@ -1,0 +1,49 @@
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\appsettings.json
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.exe
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.deps.json
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.runtimeconfig.json
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.runtimeconfig.dev.json
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.dll
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\ref\Sales Management - Project.dll
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.pdb
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.Views.dll
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Sales Management - Project.Views.pdb
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.csproj.AssemblyReference.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.AssemblyInfoInputs.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.AssemblyInfo.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.csproj.CoreCompileInputs.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.RazorAssemblyInfo.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.RazorAssemblyInfo.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\staticwebassets\Sales Management - Project.StaticWebAssets.Manifest.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\staticwebassets\Sales Management - Project.StaticWebAssets.xml
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\scopedcss\bundle\Sales Management - Project.styles.css
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.TagHelpers.input.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.TagHelpers.output.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.RazorCoreGenerate.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Categories.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.RazorTargetAssemblyInfo.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.RazorTargetAssemblyInfo.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.Views.pdb
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.dll
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\ref\Sales Management - Project.dll
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.pdb
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.genruntimeconfig.cache
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Sales Management - Project.csproj.CopyComplete
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Create_Category.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Update_Category.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Delete_Category.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Add_Product.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Product.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Delete_Product.cshtml.g.cs
+D:\Study\Programming Technique\21880070\Sales Management - Project\Sales Management - Project\obj\Debug\net5.0\Razor\Pages\Page_Update_Product.cshtml.g.cs
