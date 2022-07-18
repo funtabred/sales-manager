@@ -1,0 +1,35 @@
+﻿@page
+@model Sales_Management___Project.Pages.Page_CategoriesModel
+@using Sales_Management___Project.Entities
+
+<form method="post">
+    <label>Find a category</label>
+    <input type="text" name="keyword" value="" />
+
+    <input type="submit" name="search" value="Search" />
+
+    
+</form>
+@Model.message
+<br />
+
+<input onclick="location.href = '/Page_Create_Category';" align="right" type="button" name="add" value="Create a category" />
+
+<br />
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Category</th>
+        <th>Action</th>
+    </tr>
+    @foreach (Category category in Model.listCategories)
+    {
+    <tr>
+        <td>@category.categoryId</td>
+        <td>@category.categoryName</td>
+        <td><a href="/Page_Update_Category?categoryId=@category.categoryId">Update</a>
+        <a href="/Page_Delete_Category?categoryId=@category.categoryId">Delete</a>
+        </td>
+    </tr>
+    }
+</table>

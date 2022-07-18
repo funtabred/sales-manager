@@ -1,0 +1,41 @@
+﻿@page
+@model Sales_Management___Project.Pages.Page_Delete_ProductModel
+@using Sales_Management___Project.Entities
+@{
+}
+
+@if (Model.isFound) {
+    <form method="post">
+
+        <label>Product ID:</label><br />
+        <label>@Model.foundProduct.productId</label><br />
+
+        <label>Product Name:</label><br />
+        <label>@Model.foundProduct.productName</label><br />
+
+        <label>Category:</label><br />
+        <label>
+            @Model.categoryName
+        </label><br />
+
+        <label>Manufacturer:</label><br />
+        <label>@Model.foundProduct.manufacturer</label><br />
+
+        <label>Price:</label><br />
+        <label>@Model.foundProduct.price</label><br />
+
+        <label>Manufactured Date:</label><br />
+        <label>@Model.foundProduct.mfgDate</label><br />
+
+        <label>Expiry:</label><br />
+        <label>@Model.foundProduct.expiry</label><br />
+
+        <label>Do you want to delete product @Model.productId?</label><br />
+
+        <input type="submit" name="submit" value="Confirm" />
+        <button href="/Page_Product">Cancel</button>
+
+    </form>
+}
+
+@Model.message

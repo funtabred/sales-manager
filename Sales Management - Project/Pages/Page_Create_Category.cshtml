@@ -1,0 +1,18 @@
+﻿@page
+@model Sales_Management___Project.Pages.Page_Create_CategoryModel
+@{
+}
+
+<form method="post">
+    <label>Create a new category</label><br /><br />
+
+    <label>Category ID:</label><br />
+    <input type="text" name="categoryId" value="" /><br />
+
+    <label>Category Name:</label><br />
+    <input type="text" name="categoryName" value="" /><br />
+
+    <input type="submit" name="submit" value="Save" />
+</form>
+
+@Model.message

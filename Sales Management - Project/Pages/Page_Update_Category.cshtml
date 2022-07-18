@@ -1,0 +1,18 @@
+﻿@page
+@model Sales_Management___Project.Pages.Page_Update_CategoryModel
+
+@if (Model.isFound == true)
+{
+    <form method="post">
+    <label>Update the category</label><br /><br />
+
+    <label>Category ID:</label><br />                            <label>@Model.foundCategory.categoryId</label><br />
+
+    <label>Category Name:</label><br />
+    <input type="text" name="categoryName" value="@Model.foundCategory.categoryName" /><br />
+
+    <input type="submit" name="submit" value="Save" />
+    </form>
+}
+
+@Model.message

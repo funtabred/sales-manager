@@ -1,0 +1,41 @@
+﻿@page
+@model Sales_Management___Project.Pages.Page_Update_ProductModel
+@using Sales_Management___Project.Entities
+@{
+}
+
+<form method="post">
+    <label>Update a product:</label><br /><br />
+
+    <label>Product ID:</label><br />
+    <label>@Model.productId</label><br />
+
+    <label>Product Name:</label><br />
+    <input type="text" name="productName" value=@Model.foundProduct.productName /><br />
+
+    <label>Category:</label><br />
+    <select name="categoryId">
+    @foreach (Category category in Model.listCategories)
+    {
+        <option value=@category.categoryId>@category.categoryName</option>
+    }
+    </select>
+    <br />
+
+    <label>Manufacturer:</label><br />
+    <input type="text" name="manufacturer" value=@Model.foundProduct.manufacturer /><br />
+    <label>Price:</label><br />
+    <input type="number" min="0" name="price" value=@Model.foundProduct.price /><br />
+
+    <label>Manufactured Date:</label><br />
+    <input type="number" min="2018" name="mfgDate" value=@Model.foundProduct.mfgDate /><br />
+
+    <label>Expiry:</label><br />
+    <input type="number" min="0" name="expiry" value=@Model.foundProduct.expiry /><br />
+
+    <input type="submit" name="submit" value="Save" />
+    <button action="onclick" href="/Page_Product">Cancel</button>
+
+</form>
+
+@Model.message

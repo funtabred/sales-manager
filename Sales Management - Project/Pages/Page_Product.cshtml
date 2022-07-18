@@ -1,0 +1,52 @@
+﻿@page
+@model Sales_Management___Project.Pages.Page_ProductModel
+@using Sales_Management___Project.Entities
+@{
+}
+
+<form method="post">
+    <label>Find a product:</label>
+    <input type="text" name="keyword" value="" />
+
+    <input type="submit" name="search" value="Search" />
+</form>
+@Model.message
+<br />
+
+<input onclick="location.href = '/Page_Add_Product';" align="right" type="button" name="add" value="Add a product" />
+<br />
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Product</th>
+        <th>Category</th>
+        <th>Manufacturer</th>
+        <th>Price</th>
+        <th>MFG Date</th>
+        <th>Expiry</th>
+        <th>Action</th>
+    </tr>
+    @foreach (Product product in Model.listProducts)
+    {
+        <tr>
+            <td>@product.productId</td>
+            <td>@product.productName</td>
+            @foreach (Category category in Model.listCategories)
+            {
+                if (category.categoryId.Equals(product.categoryId))
+                {
+                    <td>@category.categoryName</td>
+                }
+            }
+
+            <td>@product.manufacturer</td>
+            <td>@product.price</td>
+            <td>@product.mfgDate</td>
+            <td>@product.expiry</td>
+            <td>
+                <a href="/Page_Update_Product?productId=@product.productId">Update</a>
+                <a href="/Page_Delete_Product?productId=@product.productId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
